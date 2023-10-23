@@ -1,0 +1,5 @@
+com/ecommerce/productservice/repository/ProductRepository.class
+com/ecommerce/productservice/exception/ResourceNotFoundException.class
+com/ecommerce/productservice/document/Product.class
+com/ecommerce/productservice/controller/ProductController.class
+com/ecommerce/productservice/MainApplication.class
